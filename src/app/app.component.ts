@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'PickMyDinner';
+  title = 'PickMyMeal';
   zoom: number = 15;
   lat: number = 29.651634;
   lng: number = -82.324829;
